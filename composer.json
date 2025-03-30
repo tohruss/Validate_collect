@@ -1,0 +1,21 @@
+{
+    "name": "tohruss/validation",
+    "description": "regular expression",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tohruss",
+            "email": "taraskind6@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Collect\\": "src/"
+        }
+    }
+}
